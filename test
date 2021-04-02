@@ -1,15 +1,1 @@
-First Line
-
-Second Line
-
-Third Line in dev
-
-<<<<<<< HEAD
-Fourth Line 4
-
-Final Line 5
-||||||| merged common ancestors
-4th Line
-=======
-4th Line 4
->>>>>>> dev
+end
